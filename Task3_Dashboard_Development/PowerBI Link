@@ -1,0 +1,19 @@
+# NYC Taxi Trips Analysis – Power BI Project
+
+## Project Overview
+This project analyzes NYC Taxi Trips data using Power BI.
+It includes data cleaning, KPIs, and interactive dashboards.
+
+## Live Power BI Dashboard
+🔗 Click here to view the dashboard:
+https://app.powerbi.com/links/JONl2R-4XC?ctid=93676573-395b-467d-b4e7-3e73253f9de5&pbi_source=linkShare
+
+## Tools Used
+- Power BI
+- Python / PySpark (Data Cleaning)
+- GitHub
+
+## Key Insights
+- Peak pickup hours analysis
+- Revenue and trip distance trends
+- Payment type distribution
