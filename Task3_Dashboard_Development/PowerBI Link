@@ -1,19 +1,26 @@
-# NYC Taxi Trips Analysis – Power BI Project
+# NYC Taxi Big Data Analysis (Power BI)
 
-## Project Overview
-This project analyzes NYC Taxi Trips data using Power BI.
-It includes data cleaning, KPIs, and interactive dashboards.
+## 📊 Project Overview
+This project performs Big Data analysis on NYC Taxi dataset using PySpark and visualizes insights using Power BI.
 
-## Live Power BI Dashboard
-🔗 Click here to view the dashboard:
+## 🧰 Tools Used
+- PySpark
+- Power BI
+- Python
+- GitHub
+
+## 📁 Power BI Dashboard
+Due to GitHub file size limits, the Power BI (.pbix) file is hosted on Google Drive.
+
+🔗 **Download Power BI File**  
 https://drive.google.com/file/d/1dhDAadC2oODoBvMs6eBAAhUZxL8NCJse/view?usp=sharing
 
 
-## Tools 
-- Python / PySpark (Data Cleaning)
-- GitHub
+## 📌 Dataset
+NYC Taxi Trip Records (Large Dataset ~500MB)
 
-## Key Insights
-- Peak pickup hours analysis
-- Revenue and trip distance trends
+## 📈 Insights Covered
+- Trip distance vs fare analysis
+- Peak pickup hours
 - Payment type distribution
+- Revenue trends
