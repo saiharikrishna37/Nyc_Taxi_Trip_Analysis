@@ -10,7 +10,7 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SONTOSH
 
-##🚕 NYC Taxi Trips Data Analytics & Machine Learning Project
+## 🚕 NYC Taxi Trips Data Analytics & Machine Learning Project
 
 This project is an end-to-end data analytics and machine learning solution built using the NYC Taxi Trips dataset to demonstrate skills in big data processing, machine learning, business intelligence, and natural language processing (NLP). The project is divided into four structured tasks, each focusing on a different aspect of real-world data analysis.
 
